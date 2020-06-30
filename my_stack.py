@@ -1,4 +1,4 @@
-"""STACK model"""
+"""--STACK model--"""
 
 
 class Item:
